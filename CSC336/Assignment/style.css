@@ -120,3 +120,21 @@ list-style: none;
 .product-intro{
     text-align: center;
 }
+.card-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+.card-container .card{
+    flex-basis: 60%;
+}
+.card img{
+    width: 100%;
+}
+.card button{
+    color: honeydew;
+    background-color: gray;
+    padding: auto;
+    margin: auto;
+}
