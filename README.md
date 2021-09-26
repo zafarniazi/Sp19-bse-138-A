@@ -1,2 +1,1 @@
-# Sp19-bse-138-A
- A repo for all the assignments exercises problems, projects, final semester projects, etc.
+A simple HTML/CSS layout of your web page.
