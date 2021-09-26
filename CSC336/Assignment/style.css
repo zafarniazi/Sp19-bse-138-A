@@ -138,3 +138,21 @@ list-style: none;
     padding: auto;
     margin: auto;
 }
+footer{
+    background-color:gray;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 3px;
+    height: 300px;
+
+}
+footer div{
+
+     flex-basis: 30%;
+}
+footer h1{
+    letter-spacing: 0.5 rm;
+}
